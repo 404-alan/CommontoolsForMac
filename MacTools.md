@@ -20,8 +20,8 @@
 
 * Alfred
 * homebrew
-  * 1.开启socks代理
-  * 2.在.zshrc文件加上`export https_proxy="[http://127.0.0.1:1087（端口号根据代理端口确定）
+  * 1.开启`socks`代理
+  * 2.在`.zshrc`文件加上`export https_proxy="[http://127.0.0.1:1087]`（端口号根据代理端口确定）
 * PlantUml(集成在SublimeText中使用)
   * 安装`graphviz`
   * 安装[**sublime_diagram_plugin**](https://github.com/jvantuyl/sublime_diagram_plugin)
