@@ -3,7 +3,7 @@
 命令行工具
 
 * iterm2 
-* Zsh
+* oh-my-zsh
 * git
 
 文字编辑工具
