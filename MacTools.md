@@ -36,9 +36,7 @@
 
 ### 代理设置
 * Shell代理:shell代理分两种，根据Shell类型分两种:Mac自带Bash和Zsh，都需要将一下内容拷贝到相应的设置文件中。
-    
     ```
-    
     function proxyoff(){
         unset http_proxy
         unset https_proxy
@@ -52,9 +50,8 @@
         export https_proxy=$http_proxy
         echo -e "已开启代理"
     }
-    
     ```
-    
+   
   |Shell|Setting File|
   |:------:|:-------:|
   |Bash|`~/.bash_profile`|
