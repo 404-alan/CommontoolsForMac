@@ -5,7 +5,7 @@
 * iterm2 
 * oh-my-zsh
 * git
-* [z](https://github.com/rupa/z)`(展示最近浏览路径进行快速跳转)`
+* [z](https://www.smashingmagazine.com/2015/07/become-command-line-power-user-oh-my-zsh-z/)`(展示最近浏览路径进行快速跳转)`
 
 文字编辑工具
 
