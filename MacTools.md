@@ -5,7 +5,8 @@
 * iterm2 
 * oh-my-zsh
 * git
-* [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting):shell语法高亮
+* [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
+  > shell语法高亮
 * [自动提示](https://github.com/zsh-users/zsh-autosuggestions)
 * [z](https://www.smashingmagazine.com/2015/07/become-command-line-power-user-oh-my-zsh-z/)`(展示最近浏览路径进行快速跳转)`
   
