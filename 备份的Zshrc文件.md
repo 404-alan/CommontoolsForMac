@@ -115,6 +115,8 @@ source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 # 自动补全插件incr
 /Users/lw/.oh-my-zsh/custom/plugins/incr/incr*.zsh
 
+# 隐藏主机名 hide:user@hostname
+prompt_context () { }
 
 
 ```
