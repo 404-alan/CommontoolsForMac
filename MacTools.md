@@ -5,7 +5,7 @@
 * iterm2 
 * oh-my-zsh
 * git
-* z`(展示最近浏览路径进行快速跳转)`
+* [z](https://github.com/rupa/z)`(展示最近浏览路径进行快速跳转)`
 
 文字编辑工具
 
@@ -32,3 +32,32 @@
 * ShadowSocks NG
 * 多态
 
+### 代理设置
+* Shell代理:shell代理分两种，根据Shell类型分两种:Mac自带Bash和Zsh，都需要将一下内容拷贝到相应的设置文件中。
+    
+    ```
+    
+    function proxyoff(){
+        unset http_proxy
+        unset https_proxy
+        echo -e "已关闭代理"
+    }
+
+    # 代理地址和端口号需要与Shadowsocks里的设置一致
+    function proxyon() {
+        export no_proxy="localhost,127.0.0.1,localaddress,.localdomain.com"
+        export http_proxy="http://127.0.0.1:1080"
+        export https_proxy=$http_proxy
+        echo -e "已开启代理"
+    }
+    
+    ```
+    
+  |Shell|Setting File|
+  |:------:|:-------:|
+  |Bash|`~/.bash_profile`|
+  |[Zsh](https://ohmyz.sh/)|`~/.zshrc`|
+
+  
+
+* [Git代理](https://gist.github.com/laispace/666dd7b27e9116faece6)
