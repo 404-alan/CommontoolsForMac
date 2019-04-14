@@ -13,6 +13,8 @@
   > 1.Copy[z.sh可执行文件]到根目录`~`下。
   
   > 2.添加`. ~/z.sh`到`~/.zshrc`文件。
+  
+ * [Dict-cli](https://github.com/mistory/cli-dict)
  
 
 文字编辑工具
