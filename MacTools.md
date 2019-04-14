@@ -64,3 +64,9 @@
   
 
 * [Git代理](https://gist.github.com/laispace/666dd7b27e9116faece6)
+
+### [特别有用的tips](https://xiaozhou.net/learn-the-command-line-iterm-and-zsh-2017-06-23.html)
+
+  [指令1](https://xiaozhou.net/learn-the-command-line-iterm-and-zsh-2017-06-23.html)
+  [指令2](https://linux.cn/article-10047-1.html)
+  [指令3](https://sibevin.github.io/posts/2014-09-28-094856-oh-my-zsh-tips)
