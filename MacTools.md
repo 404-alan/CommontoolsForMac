@@ -14,7 +14,7 @@
   
   > 2.添加`. ~/z.sh`到`~/.zshrc`文件。
   
- * [Dict-cli](https://github.com/mistory/cli-dict)
+ * [Dict-cli](https://pypi.org/project/dict-cli/)
  
 
 文字编辑工具
