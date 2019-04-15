@@ -118,6 +118,26 @@ source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 # 隐藏主机名 hide:user@hostname
 prompt_context () { }
 
+# 别名
+alias gcam="git commit -am"
+alias gcm="git commit -m"
+alias gaa="git add ."
+alias gco="git checkout"
+alias gcb="git checkout -b"
+alias gb="git branch"
+alias gs="git statsh"
+alias gsp="git statsh pop"
+alias gm="git merge"
+alias cdfp="cd freeprints"
+alias cdpb="cd phototiles"
+alias cdtk="cd trunk"
+alias cddo="cd Documents"
+alias cdpb="cd photobooks"
+alias asda='adb shell dumpsys activity | grep "mFocusedActivity"'
+alias asdat='adb shell dumpsys activity top'
+Alias open="open ~/.zshrc"
+
+
 
 ```
 
