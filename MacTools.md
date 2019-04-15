@@ -3,6 +3,8 @@
 命令行工具
 
 * iterm2 
+  > 主题: `Tango Dark`
+ 
 * oh-my-zsh
 * git
 * [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
