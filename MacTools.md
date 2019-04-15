@@ -6,7 +6,7 @@
 
   > 主题: `Tango Dark`
   
-  > [Profile](https://github.com/404-alan/CommontoolsForMac/blob/master/iterm2_profile.json)
+  > [Profile，直接导入iterm2即可](https://github.com/404-alan/CommontoolsForMac/blob/master/iterm2_profile.json)
  
 * oh-my-zsh
 * git
