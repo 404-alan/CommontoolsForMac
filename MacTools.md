@@ -5,6 +5,7 @@
 * iterm2 
 
   > 主题: `Tango Dark`
+  
   > [Profile](https://github.com/404-alan/CommontoolsForMac/blob/master/iterm2_profile.json)
  
 * oh-my-zsh
