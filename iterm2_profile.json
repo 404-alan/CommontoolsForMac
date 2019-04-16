@@ -1,4 +1,6 @@
 {
+"Profiles": [
+{
   "Use Non-ASCII Font" : false,
   "Tags" : [
 
@@ -359,4 +361,6 @@
     "Red Component" : "0.7686275",
     "Blue Component" : "0"
   }
+}
+]
 }
