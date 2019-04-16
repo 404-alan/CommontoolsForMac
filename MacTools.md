@@ -6,6 +6,8 @@
 
   > 主题: `Tango Dark`
   
+  > [Powerline)](https://zhuanlan.zhihu.com/p/26373052)
+  
   > [Profile，直接导入iterm2即可](https://github.com/404-alan/CommontoolsForMac/blob/master/iterm2_profile.json)
  
 * oh-my-zsh
