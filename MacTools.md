@@ -36,7 +36,9 @@
   
 Android Studio
 
-* `修改Shell`:Preference -> Tools -> Terminal
+* `修改Shell`
+
+  > Preference -> Tools -> Terminal
 
 ### Workflow
 
