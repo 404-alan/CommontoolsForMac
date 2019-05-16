@@ -47,6 +47,15 @@ Android Studio
 * `PlantUml`(集成在SublimeText中使用)
   * 安装`graphviz`
   * 安装[**sublime_diagram_plugin**](https://github.com/jvantuyl/sublime_diagram_plugin)
+* `常用Git指令`
+
+  > 拉取远端分支
+  >
+  >   **1.git checkout -b local_branch origin/remote_branch**
+  >
+  >   **2.git branch -u origin/remote_branch local_branch**
+    
+  
 
 ### Anti GFW
 
