@@ -2,7 +2,7 @@
 
 命令行工具
 
-* iterm2 
+* `iterm2`
 
   > 主题: `Tango Dark`
   
@@ -10,8 +10,8 @@
   
   > [Profile，直接导入iterm2即可](https://github.com/404-alan/CommontoolsForMac/blob/master/iterm2_profile.json)
  
-* oh-my-zsh
-* git
+* `oh-my-zsh`
+* `git`
 * [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
   > shell语法高亮
 * [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
@@ -26,29 +26,29 @@
 
 文字编辑工具
 
-* Typora
+* `Typora`
 
   > Markdown编辑工具
 
-* SublimeText
+* `SublimeText`
 
   > xml等文件等查看工具
 
 ### Workflow
 
-* Alfred
-* homebrew
-* PlantUml(集成在SublimeText中使用)
+* `Alfred`
+* `homebrew`
+* `PlantUml`(集成在SublimeText中使用)
   * 安装`graphviz`
   * 安装[**sublime_diagram_plugin**](https://github.com/jvantuyl/sublime_diagram_plugin)
 
 ### Anti GFW
 
-* ShadowSocks NG
-* 多态
+* `ShadowSocks NG`
+* `多态`
 
 ### 代理设置
-* Shell代理:shell代理分两种，根据Shell类型分两种:Mac自带Bash和Zsh，都需要将一下内容拷贝到相应的设置文件中。
+* `Shell代理`:shell代理分两种，根据Shell类型分两种:Mac自带Bash和Zsh，都需要将一下内容拷贝到相应的设置文件中。
     ```
     function proxyoff(){
         unset http_proxy
