@@ -67,7 +67,7 @@
    
   |Shell|Setting File|
   |:------:|:-------:|
-  |Bash|`~/.bash_profile`|
+  |`Bash`|`~/.bash_profile`|
   |[Zsh](https://ohmyz.sh/)|`~/.zshrc`|
 
   
