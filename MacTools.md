@@ -49,22 +49,13 @@ Android Studio
   * 安装[**sublime_diagram_plugin**](https://github.com/jvantuyl/sublime_diagram_plugin)
 * `常用Git指令`
 
-  > 拉取远端分支
-  >
-  >   **第一种:git checkout -b local_branch origin/remote_branch**
-  >
-  >   **第二种:git branch -u origin/remote_branch local_branch**
-  >
-  > 绑定远程分支(**先切换本地分支哦!!**)
-  >
-  >   **git branch -u origin/remote_branch**
-  >
-  > 推送本地分支到特定分支
-  > 
-  >   **git push origin local:destination**
-  
-    
-  
+  |操作名|具体指令|
+  |:--------:|:--------:|
+  |拉取远端分支|**第一种:git checkout -b local_branch origin/remote_branch** **第二种:git branch -u origin/remote_branch local_branch**|
+  |绑定远程分支(**先切换本地分支哦!!**)| **git branch -u origin/remote_branch**|
+  |推送本地分支到特定分支|**git push origin local:destination**|
+  |推送某个Commit到特定分支|**git push origin local^:remote_branch**|
+
 
 ### Anti GFW
 
