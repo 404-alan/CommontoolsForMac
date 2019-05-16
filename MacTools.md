@@ -54,6 +54,10 @@ Android Studio
   >   **1.git checkout -b local_branch origin/remote_branch**
   >
   >   **2.git branch -u origin/remote_branch local_branch**
+  >
+  > 绑定远程分支(**先切换本地分支哦!!**)
+  >
+  >   **git branch -u origin/remote_branch**
     
   
 
