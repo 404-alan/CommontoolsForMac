@@ -10,7 +10,7 @@
   
   > [Profile，直接导入iterm2即可](https://github.com/404-alan/CommontoolsForMac/blob/master/iterm2_profile.json)
  
-* `oh-my-zsh`
+* `oh-my-zsh`:本地默认路径`/usr/local/bin/zsh`
 * `git`
 * [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
   > shell语法高亮
@@ -33,6 +33,10 @@
 * `SublimeText`
 
   > xml等文件等查看工具
+  
+Android Studio
+
+* `修改Shell`:Preference -> Tools -> Terminal
 
 ### Workflow
 
