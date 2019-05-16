@@ -55,6 +55,7 @@ Android Studio
   |绑定远程分支(**先切换本地分支哦!!**)| **git branch -u origin/remote_branch**|
   |推送本地分支到特定分支|**git push origin local:destination**|
   |推送某个Commit到特定分支|**git push origin local^:remote_branch**|
+  |拉取远端分支生成新分支并把当前分支和新分支做合并|**git pull origin master:far**|
 
 
 ### Anti GFW
