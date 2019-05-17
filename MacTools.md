@@ -58,7 +58,7 @@ Android Studio
   |拉取远端分支生成新分支并把当前分支和新分支做合并|**git pull origin master:far**|
 * `Gradle`
 
-  [Gradle in shell]{https://blog.csdn.net/u013634213/article/details/51120783}
+  [Gradle in shell](https://blog.csdn.net/u013634213/article/details/51120783)
 
 
 ### Anti GFW
