@@ -47,7 +47,7 @@ Android Studio
 * `PlantUml`(集成在SublimeText中使用)
   * 安装`graphviz`
   * 安装[**sublime_diagram_plugin**](https://github.com/jvantuyl/sublime_diagram_plugin)
-* `常用Git指令`
+* `Git`
 
   |操作名|具体指令|
   |:--------:|:--------:|
@@ -56,6 +56,9 @@ Android Studio
   |推送本地分支到特定分支|**git push origin local:destination**|
   |推送某个Commit到特定分支|**git push origin local^:remote_branch**|
   |拉取远端分支生成新分支并把当前分支和新分支做合并|**git pull origin master:far**|
+* `Gradle`
+
+  [Gradle in shell]{https://blog.csdn.net/u013634213/article/details/51120783}
 
 
 ### Anti GFW
