@@ -135,7 +135,7 @@ alias cddo="cd Documents"
 alias cdpb="cd photobooks"
 alias asda='adb shell dumpsys activity | grep "mFocusedActivity"'
 alias asdat='adb shell dumpsys activity top'
-Alias open="open ~/.zshrc"
+alias open="open ~/.zshrc"
 
 
 
