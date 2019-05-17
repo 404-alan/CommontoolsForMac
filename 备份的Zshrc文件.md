@@ -137,7 +137,7 @@ alias asda='adb shell dumpsys activity | grep "mFocusedActivity"'
 alias asdat='adb shell dumpsys activity top'
 alias open="open ~/.zshrc"
 
-# gradle in shell配置
+# gradle in shell配置,注意转义字符添加在"\"路径空格之前
 export GRADLE_HOME=/Applications/Android\ Studio.app/Contents/gradle/gradle-5.1.1
 export PATH=${PATH}:${GRADLE_HOME}/bin
 
