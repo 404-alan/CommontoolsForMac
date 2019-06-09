@@ -141,6 +141,9 @@ alias open="open ~/.zshrc"
 export GRADLE_HOME=/Applications/Android\ Studio.app/Contents/gradle/gradle-5.1.1
 export PATH=${PATH}:${GRADLE_HOME}/bin
 
+# 文件树指令
+alias tree="find . -print | sed -e 's;[^/]*/;|____;g;s;____|; |;g'"
+
 
 
 ```
