@@ -16,3 +16,4 @@
 * `COMMAND + SHIFT + A`:打开应用程序列表
 * `COMMAND + OPTION + A`:取消全选
 * 
+
